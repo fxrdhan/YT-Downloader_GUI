@@ -17,7 +17,7 @@ Untuk menginstal dari PyPI dengan pip:
 ```bash
 python -m pip install pytube
 ```
-Terkadang, PyPI kurang memerhatikan update. Untuk menginstal dari GitHub dengan pip:
+Terkadang, PyPI kurang memerhatikan update. Untuk menginstal dari GitBash:
 ```bash
 python -m pip install git+https://github.com/pytube/pytube
 ```
