@@ -9,7 +9,6 @@
   </p>
 </div>
 
-
 ### Instalasi
 
 Untuk menginstal dari PyPI dengan pip:
@@ -26,6 +25,10 @@ python -m pip install git+https://github.com/pytube/pytube
 * moviepy : `pip install moviepy`
 * tkinter 
 * os module
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ### GUI PREVIEW
 ![GUI-Preview](https://user-images.githubusercontent.com/56776871/228445327-14f58272-ac04-4f3e-a3e4-fd0a16dffa40.png)
